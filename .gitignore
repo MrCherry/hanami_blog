@@ -1,0 +1,4 @@
+/db/hanami_blog_development
+/db/hanami_blog_test
+/public/assets*
+/tmp
